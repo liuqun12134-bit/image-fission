@@ -1,0 +1,86 @@
+{
+  "export_version": "2026.11.01.1",
+  "repository": "https://github.com/liuqun12134-bit/image-fission",
+  "skills": [
+    {
+      "name": "image-fission",
+      "version": "1.0.0",
+      "directory": "skills/image-fission",
+      "zip_path": "dist/image-fission.zip",
+      "zip_url": "https://github.com/liuqun12134-bit/image-fission/blob/main/dist/image-fission.zip",
+      "zip_sha256": "ed8294be487578f53a74839c80d6085c03f1f7829f8e58c7eb85096fab15895a",
+      "files": [
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "02790487aa229672ddc2c4ee194ce95324aef5b77bccab7126b3e367d627e1ba",
+          "url": "https://raw.githubusercontent.com/liuqun12134-bit/image-fission/main/skills/image-fission/agents/openai.yaml"
+        },
+        {
+          "path": "learning-config.json",
+          "sha256": "c47f7cf6e2a1b3b2c70f5b92728fbb5840772014e98781cb904521490900353c",
+          "url": "https://raw.githubusercontent.com/liuqun12134-bit/image-fission/main/skills/image-fission/learning-config.json"
+        },
+        {
+          "path": "references/experience-library.md",
+          "sha256": "1b5c57b17c41a6574625ff7d555d412e08a79cd1713989fb0ad03e67d797aeca",
+          "url": "https://raw.githubusercontent.com/liuqun12134-bit/image-fission/main/skills/image-fission/references/experience-library.md"
+        },
+        {
+          "path": "references/model-fallback.md",
+          "sha256": "a3a9e383967198c961c4c7872ba3fe55a122072da444f76f45488c86a53cc28e",
+          "url": "https://raw.githubusercontent.com/liuqun12134-bit/image-fission/main/skills/image-fission/references/model-fallback.md"
+        },
+        {
+          "path": "references/output-contract.md",
+          "sha256": "d477e2fe9596419f976afca680e9dd15938acbed02dde1d510700db9901a5077",
+          "url": "https://raw.githubusercontent.com/liuqun12134-bit/image-fission/main/skills/image-fission/references/output-contract.md"
+        },
+        {
+          "path": "references/quality-review.md",
+          "sha256": "204618a8e06e82b0d7e913b224a692b3ee2ea16ea020fff8f306ab10443cbbae",
+          "url": "https://raw.githubusercontent.com/liuqun12134-bit/image-fission/main/skills/image-fission/references/quality-review.md"
+        },
+        {
+          "path": "references/self-optimization.md",
+          "sha256": "771d4c95decef0d7a6e4d6b2b3c189541cac30dc9bb121fa242fa88eb3011614",
+          "url": "https://raw.githubusercontent.com/liuqun12134-bit/image-fission/main/skills/image-fission/references/self-optimization.md"
+        },
+        {
+          "path": "references/task-strategies/index.md",
+          "sha256": "df192952b5fe1b16ef5166bf883fe3ea09facc2d534dd41b10748ba79bf8ae18",
+          "url": "https://raw.githubusercontent.com/liuqun12134-bit/image-fission/main/skills/image-fission/references/task-strategies/index.md"
+        },
+        {
+          "path": "references/task-strategies/person.md",
+          "sha256": "414e8edd350166e99b7359c40f9c726c274ca15ceeaa233dcf0cf1d112c599f6",
+          "url": "https://raw.githubusercontent.com/liuqun12134-bit/image-fission/main/skills/image-fission/references/task-strategies/person.md"
+        },
+        {
+          "path": "references/task-strategies/product.md",
+          "sha256": "b5c38c58d865de6d87140f5b067da7b1a605f5bcf35722caef83ed420e993a72",
+          "url": "https://raw.githubusercontent.com/liuqun12134-bit/image-fission/main/skills/image-fission/references/task-strategies/product.md"
+        },
+        {
+          "path": "references/task-strategies/scene-outfit-combined.md",
+          "sha256": "d9a415e4d40b7bc237a15c3d369588a417ee7254f0f1f06103c97cbba72b8ff9",
+          "url": "https://raw.githubusercontent.com/liuqun12134-bit/image-fission/main/skills/image-fission/references/task-strategies/scene-outfit-combined.md"
+        },
+        {
+          "path": "scripts/learning.py",
+          "sha256": "f521ced595ad4989d90313135bbc4a5da653885f18261543b9be211efc4dd82a",
+          "url": "https://raw.githubusercontent.com/liuqun12134-bit/image-fission/main/skills/image-fission/scripts/learning.py"
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "5e720004f5b938e840caaa3bb7d826bfc8d174cd37fbfc89a150db983179a3d3",
+          "url": "https://raw.githubusercontent.com/liuqun12134-bit/image-fission/main/skills/image-fission/SKILL.md"
+        },
+        {
+          "path": "templates/learning-record.json",
+          "sha256": "67430ad7a6bcb5c574802652fb86a85abea31636a25f6c820b57b1b36d5b22e9",
+          "url": "https://raw.githubusercontent.com/liuqun12134-bit/image-fission/main/skills/image-fission/templates/learning-record.json"
+        }
+      ]
+    }
+  ]
+}
