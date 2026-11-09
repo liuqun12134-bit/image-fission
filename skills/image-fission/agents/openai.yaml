@@ -1,4 +1,4 @@
 interface:
-  display_name: "素材万象 · 图片裂变"
-  short_description: "换人换品与场景裂变，三轮自检修正、模型兜底和可开关的经验自优化"
-  default_prompt: "请使用 $image-fission 根据我的原图和参考完成编辑，自检后交付。"
+  display_name: "图片裂变"
+  short_description: "根据原图和参考换人换品、换装换景，生成独立变体并逐轮检查"
+  default_prompt: "请使用 $image-fission 根据我的原图和参考完成编辑，检查后交付图片。"
