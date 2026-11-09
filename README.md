@@ -1,6 +1,6 @@
 # 图片裂变
 
-独立 Skill，版本 **1.2.0**。根据原图和可选的人物、产品、服装、场景或拍摄状态参考，完成换人换品、局部修改、姿态调整和独立图片变体，适用于电商视频首帧。需要宿主提供实际可用的图片生成或编辑工具，不附带模型、账号或凭据。
+公开独立 Skill，版本 **1.2.0**。根据原图和可选的人物、产品、服装、场景或拍摄状态参考，完成换人换品、局部修改、姿态调整和独立图片变体，适用于电商视频首帧。需要宿主提供实际可用的图片生成或编辑工具，不附带模型、账号或凭据。
 
 ## 当前工作方式
 
@@ -16,7 +16,7 @@
 
 可安装目录是 [skills/image-fission](skills/image-fission/SKILL.md)，完整复制到目标平台的用户级技能目录。Codex 对应用户 `.codex/skills/image-fission/`。也可下载 [dist/image-fission.zip](dist/image-fission.zip)，包根目录包含 `SKILL.md` 与 `agents/openai.yaml`。
 
-私有仓库需要已有 GitHub 访问权限。现有同名安装先备份并比较本地改动，再整体替换技能目录，避免残留旧版脚本与配置。详见 [INSTALL-PROMPT.md](INSTALL-PROMPT.md)。
+仓库公开，无需 GitHub 账号或令牌即可下载。现有同名安装先备份并比较本地改动，再整体替换技能目录，避免残留旧版脚本与配置。详见 [INSTALL-PROMPT.md](INSTALL-PROMPT.md)。
 
 调用示例：“用 `$image-fission`，图1换成图2的脸，服装妆容保持，手里的产品换图3。”
 

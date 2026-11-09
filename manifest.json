@@ -7,7 +7,7 @@
       "version": "1.2.0",
       "directory": "skills/image-fission",
       "zip_path": "dist/image-fission.zip",
-      "zip_url": "https://github.com/liuqun12134-bit/image-fission/blob/main/dist/image-fission.zip",
+      "zip_url": "https://raw.githubusercontent.com/liuqun12134-bit/image-fission/main/dist/image-fission.zip",
       "zip_sha256": "fb4f3e4de7845c14455d753d29e8d740a59c397a388055b65d732f5913e9c051",
       "files": [
         {
